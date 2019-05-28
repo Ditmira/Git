@@ -2,8 +2,5 @@ Edited this file
 whatever
 however
 edited again
-<<<<<<< HEAD
 edit
-=======
 edit
->>>>>>> ddb2c8b8e1944407c5d145dec0455c5aab399dc0
