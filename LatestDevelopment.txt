@@ -4,4 +4,8 @@ however
 edited again
 edit
 edit
+<<<<<<< HEAD
 change on branch
+=======
+here we go again
+>>>>>>> master
