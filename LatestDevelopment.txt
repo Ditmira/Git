@@ -1,3 +1,8 @@
 Edited this file
+<<<<<<< HEAD
 edited again
 how come it didint change
+=======
+whatever
+however
+>>>>>>> 89d3cf13a5d748eb191484cf0d7be8b6c9b56f31
